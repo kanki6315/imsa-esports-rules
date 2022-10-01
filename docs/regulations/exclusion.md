@@ -1,0 +1,8 @@
+# 12. Exclusion of Legal Action and Limitation of Liability
+Legal action is excluded with regard to decisions made by the tendering party for the series, Race Control or the organizer as adjudicator within the meaning of § 661 BGB (German Civil Code).
+
+No claims for compensation of any sort can be derived from measures or decisions taken by the tendering party for the series, except in the case of intentional or grossly negligent causation of damage.
+
+The participants take part in the events at their own risk. By taking part, competitors and drivers agree to waive any claims for damages occurring in conjunction with the events and against Virtual Competition Organisation (VCO) GmbH, their executive bodies and managing director, the organizer, the members of the Race Control and all other persons connected to the organization of the event, excluding damages arising from injury to life or to health or personal injury and based on intentional or grossly negligent breach of duty, also those on the part of a legal representative or agent of the group of persons excluded from liability and excluding other damages based on intentional or grossly negligent breach of duty, also those on the part of a legal representative or agent of the group of persons excluded from liability.
+
+The exclusion of liability comes into force for all regular participants (as stated on the series‘ entry lists) and wild card starters. This applies to all claims irrespective of their legal foundation, particularly to claims for damage from contractual or extra-contractual liability and also to claims for unlawful acts. Implied exclusions from liability remain unaffected by the above exclusion from liability.
