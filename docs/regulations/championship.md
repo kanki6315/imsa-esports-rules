@@ -64,6 +64,7 @@ At the end of the 2022 IMSA EGC, the following prize money breakdown will be use
 |     Total    |     17500,00 USD    |
 
 At the end of the 2022 IMSA EGC, the following prize money breakdown will be used for TC:
+
 |     Pos.     |     Prize money    |
 |--------------|--------------------|
 |     1        |     2750,00 USD    |
