@@ -1,7 +1,7 @@
 # 8. General Regulations
 
 ## 8.1. Livery
-Changing the position and size of the logos contained on the template provided by the organizers is not permitted. It is permitted to add individual team logos.
+Changing the position and size of the logos contained on the template provided by the organizers is not permitted. It is permitted to add individual team and sponsor logos pending approval from IMSA and VCO.
 
 The final design of the liveries is solely at the discretion of VCO.
 

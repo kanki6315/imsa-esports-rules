@@ -1,9 +1,9 @@
 ![logo](_images/league-logo.png ':size=400')
 
 # IMSA Esports Global Championship regulations
-*version: 1.0*
+*version: 1.1*
 
-*last updated: 1st October 2022*
+*last updated: 4th October 2022*
 
 [Go to the regulations](#introduction)
 

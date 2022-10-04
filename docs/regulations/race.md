@@ -32,7 +32,7 @@ The reason for retiring from the race can be reported to Race Control in the Ser
 ## 5.6. Vehicle Paintwork
 All teams are invited to run their individual team liveries during all events, using the mandatory IMSA EGC livery template for each of the cars used. The templates can be found here: https://v-c-o.info/imsaliveries
 
-For the First Round, the submission deadline for paint files is 7th October 2022 at 20:00 CEST. This is to facilitate the IMSA and VCO approval process and to allow for media creation.
+For the First Round, the submission deadline for paint files is 9th October 2022 at 20:00 CEST. This is to facilitate the IMSA and VCO approval process and to allow for media creation.
 
 Any paint updates must be submitted by Monday, 20:00 CEST, before the respective event day.
 

@@ -24,7 +24,7 @@ Rounds 1, 3 and 4 will use the following schedule for event day:
 | End of Race             | 16:42         |
 | Interviews & Analysis   | 16:45 – 17:00 |
 
-Drivers must be in the race session by 13:00 ET.
+At least one driver from the team must be registered and connected to the race session by 13:00 ET.
 
 Round 2 will start 2 hours earlier to avoid clashes with other events and will use the following schedule for event day:
 
@@ -38,7 +38,7 @@ Round 2 will start 2 hours earlier to avoid clashes with other events and will u
 | End of Race             | 14:42         |
 | Interviews & Analysis   | 14:45 – 15:00 |
 
-Drivers must be in the race session by 11:00 ET.
+At least one driver from the team must be registered and connected to the race session by 11:00 ET.
 
 *subject to change; the version distributed via each Event Briefing document applies
 
