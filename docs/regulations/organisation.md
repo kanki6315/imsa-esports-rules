@@ -10,7 +10,7 @@ Race 2 | 23rd October
 Race 3 | 6th November  
 Race 4 | 20th November  
 
-Each IMSA EGC race will see a 2 hours 40 minutes race across two classes – GTD (Gran Turismo Daytona) and TC (Touring Cars). GTD comprises of a up to 30 cars, while TC will have grids of up to 14 cars.
+Each IMSA EGC race will see a 2 hours 40 minutes race across two classes – GTD (Gran Turismo Daytona) and Touring Car (Touring Cars). GTD comprises of a up to 30 cars, while Touring Car will have grids of up to 14 cars.
 
 ## 1.2. Competition Details
 - iRacing

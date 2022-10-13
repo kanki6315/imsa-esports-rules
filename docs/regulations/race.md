@@ -18,7 +18,7 @@ Should non-participation or incomplete attendance at the Drivers’ Briefing be 
 Driving on the public practice or race servers during the Drivers’ Briefing is forbidden. Race Control can impose a ten-second time penalty or penalty points for the respective race.
 
 ## 5.4. Start Type
-All races will utilise a rolling start with a defined start zone to be communicated in the official Event Briefing. Each class will start separately with a gap of five seconds left by the TC leader to the last car in the GTD field.
+All races will utilise a rolling start with a defined start zone to be communicated in the official Event Briefing. Each class will start separately with a gap of five seconds left by the Touring Car leader to the last car in the GTD field.
 
 Should the leader of either class be judged to start outside of the start zone or not maintaining a constant speed, Race Control can impose a ten-second time penalty for the respective race.
 
@@ -67,7 +67,7 @@ The finish line only applies on the circuit, not the pit lane.
 Next to in-race penalties and automated penalties depending on the sim platform, VCO Race Control will have the chance to award post-race penalties per team for any incident not fully reviewed before the end of a race.
 
 ## 5.12. Protests
-Protests can be lodged by a Team Manager during a race and up to one hour after crossing the line in a race by using the VCO IMSA Team Hub (https://v-c-o.info/imsa-hub).
+Protests can be lodged using the VCO IMSA Team Hub (https://v-c-o.info/imsa-hub).
 
 The protest form requires the following information that must be given completely and correctly:
 
@@ -77,9 +77,19 @@ The protest form requires the following information that must be given completel
 - What is the time stamp of the incident?
 - A reason for the protest
 - Short description of the incident
+
+Protests must be lodged by a team directly involved in the incident. Protests from teams who are not involved will not be accepted. Protests can be submitted on behalf of a team by any team member with the Team Role in the Series Discord Server.
+
+Protests must be submitted within 30 minutes of the incident occurring. If an incident is not initially reported in this window, it can also be reported for review no later than 15 minutes after the race has ended.
+
 Protests lodged after this deadline has expired will be regarded as inadmissible.
 
-Protests must be lodged by a driver/team directly involved in the incident. Protests from drivers/teams who are not involved will not be accepted.
+Race Control may also lodge protests if an incident warrants further investigation.
 
 ## 5.13. Settings & Weather
 All sessions will use Dynamic Weather and Skies along with a set in-sim time to be used to generate the session. These details will be communicated to drivers in the official Event Briefing.
+
+## 5.14 Registration
+Teams must register with the correct Team Id, Car and Car Number as listed on the VCO IMSA Team Hub. Teams may run a different team name to that listed in the Hub to ensure they join the correct team.
+
+Teams that register incorrectly will receive a 10 second Stop and Hold penalty at the start of the race.

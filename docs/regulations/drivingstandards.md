@@ -28,7 +28,9 @@ Drivers are reminded that safe overtaking is the responsibility of both drivers 
 - Not allowing room for a driver to make, run through, or exit a corner.
 
 ## 9.5. Off Track Incidents
-Drivers are reminded that the white lines around the race track indicate the boundary of the race track.
+Track limits are defined by the iRacing Track Limits except where defined by Race Control in the Event Briefing.
+
+Only Race Control is able to file a protest against a Team for Track Limits Violations. Offenders will receive a P01 warning as a minimum penalty, with additional penalties if Race Control deems the violation is repeated and deliberate.
 
 ## 9.6. On Track incidents
 Drivers should slow down for any incident on track, as displayed by an in-sim Yellow Flag. Drivers who attempt to gain an advantage by not slowing down for an incident ahead may receive a P01-PR04 penalty. This will depend on the amount of time gained, and the risk to other drivers by failing to slow down appropriately.

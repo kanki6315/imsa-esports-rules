@@ -1,7 +1,7 @@
 # 7. Championships & Prize Money
 
 ## 7.1. Team Championship
-For the 2022 IMSA EGC, the only championship tracked will be the Teams Championship. Each entry is viewed as Team. Classes will be separated into individual classes for GTD and TC.
+For the 2022 IMSA EGC, the only championship tracked will be the Teams Championship. Each entry is viewed as Team. Classes will be separated into individual classes for GTD and Touring Car.
 
 There will be no “drop rounds” in the 2022 IMSA EGC.
 
@@ -63,7 +63,7 @@ At the end of the 2022 IMSA EGC, the following prize money breakdown will be use
 |     16       |     50,00 USD       |
 |     Total    |     17500,00 USD    |
 
-At the end of the 2022 IMSA EGC, the following prize money breakdown will be used for TC:
+At the end of the 2022 IMSA EGC, the following prize money breakdown will be used for Touring Car:
 
 |     Pos.     |     Prize money    |
 |--------------|--------------------|

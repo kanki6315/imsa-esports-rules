@@ -3,9 +3,9 @@
 ## 3.1. Teams / Drivers
 Up to 44 Esports Racing teams (hereafter Teams) will take part in the 2022 IMSA EGC. They enter the event either after being nominated by an IMSA recognized manufacturer, or after being invited by the organizer. Teams are approved for participation by the sole discretion of the organizer.
 
-Each manufacturer (GTD: BMW/Ferrari/Lamborghini/McLaren/Mercedes/Porsche & TC: Honda/Hyundai) is allotted two nominations. Any Teams nominated by a manufacturer will receive a guaranteed entry into the series.
+Each manufacturer (GTD: BMW/Ferrari/Lamborghini/McLaren/Mercedes/Porsche & Touring Car: Honda/Hyundai) is allotted two nominations. Any Teams nominated by a manufacturer will receive a guaranteed entry into the series.
 
-Each manufacturer is also guaranteed a certain number of cars running. In GTD, each manufacturer will have five cars running while in TC, each manufacturer will see seven cars on the grid.
+Each manufacturer is also guaranteed a certain number of cars running. In GTD, each manufacturer will have five cars running while in Touring Car, each manufacturer will see seven cars on the grid.
 
 Each Team is asked to nominate a roster for the IMSA EGC via the VCO IMSA Team Hub (https://v-c-o.info/imsa-hub) by 25th September 2022 at 19:00 CEST. This roster must include exactly two drivers that will compete for a Team. In the case more than two drivers are added to the VCO IMSA Team Hub, Teams must communicate the two full-season drivers via their private channels in the IMSA EGC Discord. Each Team is also allotted two “jokers” which will allow a driver not on the full-season roster to compete for a Team. This joker must be communicated to the organizers before the Wednesday prior to each event and added on the VCO IMSA Team Hub.
 
@@ -24,14 +24,14 @@ The following cars will be used in the IMSA EGC:
 
 GTD: BMW M4 GT3, Ferrari 488 GT3 EVO, Lamborghini Huracan GT3 EVO, McLaren MP4-12C GT3, Mercedes AMG GT3 EVO, Porsche 911 GT3 R
 
-TC: Honda Civic Type R, Hyundai Elantra TC N
+Touring Car: Honda Civic Type R, Hyundai Elantra TC N
 
 Drivers will be permitted open-setups during each race.
 
 iRacing.com will provide a custom Balance of Performance (BoP) for each class before each Round. This BoP will be communicated to drivers one week before the race. 
 
 ## 3.3. Car / Vehicle Numbers
-Teams will be provided free choice of car numbers. However, car numbers in GTD will be required to be between 2 and 99 (with no preceding 0s). TC car numbers will be required to be between 102 and 199.
+Teams will be provided free choice of car numbers. However, car numbers in GTD will be required to be between 2 and 99 (with no preceding 0s). Touring Car car numbers will be required to be between 102 and 199.
 
 Car numbers will be allocated first-come first-served via the VCO IMSA Team Hub.
 
