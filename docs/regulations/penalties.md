@@ -12,3 +12,8 @@ If Race Control believes that an in-race penalty should be awarded, it will use 
 | P04          | Stop And Hold Penalty A driver will be required to drive down pit road at the speed limit. The driver will then need to remain in their pit stall. A driver will have to serve this within three laps of being issued. Race control is able to give out S/H penalties between 0 and 60 seconds.                           |
 | P05          | Disqualification The driver will be disqualified from the event.                                                                                                                                                                                                                                                          |
 | P06          | Time Penalty Time will be added onto the driver’s race time, and any positions that this will take them behind will be lost.                                                                                                                                                                                              |
+
+## 6.2. Post-Race Penalties
+Post-race penalties are applied to a car when they cross the line to start their final lap of the race, with their final lap only added to the classified time if the car would have still been in front of the overall leader when adding the penalty time to the time the car crosses the line to begin its final lap of the race.
+
+If a car does not have its final lap time added, the time it crosses the line to start its final lap plus the additional time penalty is the time the car is classified as crossing the line.

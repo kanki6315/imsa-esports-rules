@@ -1,5 +1,11 @@
 # Change log
 
+#### v1.3 - 20th October 2022
+1. Clarify penalties for not finishing cooldown lap in its entirety & for using ESC without permission - 9.8
+2. Add section on how post-race time penalties are applied - 6.2
+3. Add further clarity on start rules and add that passing is not permitted until within the start zone - 5.4
+4. Clarify penalties for various registration infractions - 5.14
+
 #### v1.2 - 13th October 2022
 1. Clarify that track limits are defined by iRacing except where defined by Race Control - 9.5
 2. Amend Protest Window and simplify language about who can submit protests - 5.12

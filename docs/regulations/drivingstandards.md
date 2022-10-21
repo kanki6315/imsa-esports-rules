@@ -51,4 +51,6 @@ It’s forbidden to use ESC during the race sessions without approval from Race 
 
 Drivers are not allowed to crash into other drivers, even after all others have passed the start/finish line. Drivers who do so will be investigated and may receive a P04/P06 penalty.
 
-Using ESC to return to pit road is allowed only during practice and qualifying.
+Using ESC to return to pit road is allowed only during practice and qualifying. Drivers that ESC without race control permission may receive either a P04/06 penalty or qualifying ban for the next race.
+
+Drivers are required to complete a full cooldown lap and return to pit lane. Drivers whom do not do so will be investigated and may receive a P04/06 penalty.

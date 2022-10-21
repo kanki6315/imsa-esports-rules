@@ -18,7 +18,7 @@ Should non-participation or incomplete attendance at the Drivers’ Briefing be 
 Driving on the public practice or race servers during the Drivers’ Briefing is forbidden. Race Control can impose a ten-second time penalty or penalty points for the respective race.
 
 ## 5.4. Start Type
-All races will utilise a rolling start with a defined start zone to be communicated in the official Event Briefing. Each class will start separately with a gap of five seconds left by the Touring Car leader to the last car in the GTD field.
+All races will utilise a rolling start with a defined start zone to be communicated in the official Event Briefing. Each class will start separately with a gap of five seconds left by the Touring Car leader to the last car in the GTD field. Drivers must ignore the iRacing Green Flag - the race is only started by the class leader. Drivers may not pass until they are within the start zone.
 
 Should the leader of either class be judged to start outside of the start zone or not maintaining a constant speed, Race Control can impose a ten-second time penalty for the respective race.
 
@@ -93,3 +93,7 @@ All sessions will use Dynamic Weather and Skies along with a set in-sim time to 
 Teams must register with the correct Team Id, Car and Car Number as listed on the VCO IMSA Team Hub. Teams may run a different team name to that listed in the Hub to ensure they join the correct team.
 
 Teams that register incorrectly will receive a 10 second Stop and Hold penalty at the start of the race.
+
+Teams that make any driver changes after Wednesday but does not use a joker will not be permitted to join qualifying and must start from the back of their class. A team that nominates a joker driver replacement after Wednesday will receive a 10s Stop and Hold penalty at the start of the race.
+
+Any team using additional jokers beyond the allotted two jokers will receive a 20 second Stop and Hold Penalty at the start of the race.
