@@ -1,5 +1,9 @@
 # Change log
 
+#### v1.4 - 1st November 2022
+1. Update Safety Car regulations to remove third lap pit cycle and clarify that pit lane is only opened by Race Director - 10.2
+2. Update Series Schedule in 4.1 with correct Round 3 date - 4.1
+
 #### v1.3 - 20th October 2022
 1. Clarify penalties for not finishing cooldown lap in its entirety & for using ESC without permission - 9.8
 2. Add section on how post-race time penalties are applied - 6.2

@@ -5,7 +5,7 @@
 |--------------------|---------|---------------------------------|
 | 16th October 2022  | Round 1 | Michelin Raceway Road Atlanta   |
 | 23rd October 2022  | Round 2 | Weathertech Raceway Laguna Seca |
-| 13th November 2022 | Round 3 | Indianapolis Motor Speedway     |
+| 6th November 2022  | Round 3 | Indianapolis Motor Speedway     |
 | 20th November 2022 | Round 4 | Daytona International Speedway  |
 
 ## 4.2. Settings & Weather
